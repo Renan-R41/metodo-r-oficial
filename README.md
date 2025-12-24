@@ -5,8 +5,8 @@
 ## 📂 Conteúdo deste repositório
 
 - **[📄 Método Completo](metodo-r.md)** - Tudo sobre o Método R
-- **[⚖️ Licença MIT](License)** - Permissões de uso
-- **[📜 Termos de Uso](termos.md)** - Regras em português
+- **[⚖️ Licença MIT](License)** - Permissões de uso em inglês 🇺🇸
+- **[📜 Termos de Uso](Regras.md)** - Regras em português
 
 ## 🚀 Como começar
 
