@@ -2,8 +2,10 @@
 
 **Criador:** Renan  
 **Data de criação:** 20 dezembro de 2025  
-**Data do primeiro usuário do método:** 21 dezembro de 2025
+**Data do primeiro usuário do método:** 21 dezembro de 2025   
+
 **Primeira versão compartilhada:** 24 dezembro de 2025 
+
 **Versão:** 1.0  
 
 ## Visão Geral
