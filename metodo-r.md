@@ -1,6 +1,6 @@
 # Método R - Sistema de Aprendizado Acelerado
 
-**Criador:** Renan  
+**Criador:** Ren  
 **Data de criação:** 20 dezembro de 2025  
 **Data do primeiro usuário do método:** 21 dezembro de 2025   
 
