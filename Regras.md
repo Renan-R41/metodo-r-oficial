@@ -14,8 +14,9 @@
 
 ## 🔴 **O QUE PEDIMOS QUE NÃO FAÇA:**
 - ❌ Vender como se fosse seu
-- ❌ Dizer que criou (se não criou)
-- ❌ Remover os créditos
+- ❌ Dizer que criou o método
+- ❌ Remover os meus créditos
+- ❌ Colocar créditos de outra (s) pessoa (s)
 
 ## 🕊️ **SE ALGUÉM NÃO SEGUIR ESSAS REGRAS:**
 1. **Vou pedir educadamente** para dar os créditos
