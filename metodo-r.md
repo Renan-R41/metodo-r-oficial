@@ -131,5 +131,5 @@ O Método R é um sistema de treinamento cognitivo diário de 90 minutos, projet
 
 ---
 
-*Método R - Criado por Renan - Janeiro de 2024*  
+*Método R - Criado por Renan - Dezembro de 2025*  
 *Este é um documento vivo - versões futuras incluirão dados de validação empírica.*
