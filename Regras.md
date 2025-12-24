@@ -1,4 +1,4 @@
-# REGRAS DO MÉTODO R - VERSÃO PACÍFICA
+# REGRAS DO MÉTODO R (🇧🇷)
 
 **Criado por:** Renan  
 **Data:** Dezembro de 2025  
