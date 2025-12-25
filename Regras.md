@@ -21,7 +21,7 @@
 ## 🕊️ **SE ALGUÉM NÃO SEGUIR ESSAS REGRAS:**
 1. **Vou pedir educadamente** para dar os créditos
 2. **Se não resolver,** usarei as ferramentas das plataformas:
-   - GitHub: Botão "Report"
+   - Instagram: Denúncia por direitos autorais
    - YouTube: Denúncia por direitos autorais
    - Outras: Sistemas de denúncia internos
 
